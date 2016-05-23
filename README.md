@@ -22,3 +22,5 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+# Rails5Practice
+Practice Repo for Rails 5 and various stuff
